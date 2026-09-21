@@ -1,0 +1,6 @@
+{
+  "name": "Varanchi Support Desk",
+  "description": "Customer Support Ticket Management System for tracking customer issues, orders, and resolution threads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
